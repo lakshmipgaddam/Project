@@ -1,6 +1,6 @@
 package scripts;
 
-//changes made in branch-1
+//changes made in branch
 import org.testng.annotations.Test;
 
 import genericLibrary.BaseClass;
